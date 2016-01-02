@@ -1,0 +1,1 @@
+direct_hash = {key: value}
